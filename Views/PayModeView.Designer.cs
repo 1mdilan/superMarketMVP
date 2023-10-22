@@ -71,10 +71,10 @@
             // lblPayMode
             // 
             lblPayMode.AutoSize = true;
-            lblPayMode.Font = new Font("Segoe UI", 12.75F, FontStyle.Bold, GraphicsUnit.Point);
+            lblPayMode.Font = new Font("Segoe UI", 13F, FontStyle.Bold, GraphicsUnit.Point);
             lblPayMode.Location = new Point(106, 35);
             lblPayMode.Name = "lblPayMode";
-            lblPayMode.Size = new Size(96, 23);
+            lblPayMode.Size = new Size(104, 25);
             lblPayMode.TabIndex = 1;
             lblPayMode.Text = "PAY MODE";
             // 

@@ -8,7 +8,7 @@ namespace superMarketMVP.Views
 {
     internal interface IPayModeView
     {
-        string PayModeId { get; set; }
+        string PayModeID { get; set; }
         string PayModeName { get; set; }
         string PayModeObservation { get; set; }
         
