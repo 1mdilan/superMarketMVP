@@ -1,0 +1,17 @@
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\superMarketMVP.Properties.Resources.resources
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\superMarketMVP.Views.PayModeView.resources
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\superMarketMVP.csproj.GenerateResource.cache
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\superMarketMVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\superMarketMVP.AssemblyInfoInputs.cache
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\superMarketMVP.AssemblyInfo.cs
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\superMarketMVP.csproj.CoreCompileInputs.cache
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\bin\Debug\net7.0-windows\superMarketMVP.exe
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\bin\Debug\net7.0-windows\superMarketMVP.deps.json
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\bin\Debug\net7.0-windows\superMarketMVP.runtimeconfig.json
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\bin\Debug\net7.0-windows\superMarketMVP.dll
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\bin\Debug\net7.0-windows\superMarketMVP.pdb
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\superMarketMVP.dll
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\refint\superMarketMVP.dll
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\superMarketMVP.pdb
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\superMarketMVP.genruntimeconfig.cache
+C:\Users\Dilan Fierro\source\repos\superMarketMVP\obj\Debug\net7.0-windows\ref\superMarketMVP.dll

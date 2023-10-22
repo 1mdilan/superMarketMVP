@@ -1,3 +1,7 @@
+using superMarketMVP.Model;
+using superMarketMVP.Views;
+
+
 namespace superMarketMVP
 {
     internal static class Program
@@ -11,7 +15,7 @@ namespace superMarketMVP
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.Run(new PayModeView());
         }
     }
 }
