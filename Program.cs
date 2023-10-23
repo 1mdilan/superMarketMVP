@@ -1,6 +1,8 @@
 using superMarketMVP.Model;
 using superMarketMVP.Views;
-
+using superMarketMVP.Repositories;
+using superMarketMVP.Properties;
+using superMarketMVP.Presenters;
 
 namespace superMarketMVP
 {
@@ -15,7 +17,11 @@ namespace superMarketMVP
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new PayModeView());
+            string sqlConnectionString = Settings.Default.sqlConnection;
+            IPayModeView view = new PayModeView();
+            IPayModeRepository repository = new PayModeRepository(sqlConnectionString);
+            new PayModePresenter (view, repository);
+            Application.Run((Form) view);
         }
     }
 }

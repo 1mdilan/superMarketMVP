@@ -81,7 +81,6 @@ namespace superMarketMVP.Presenters
                 payModeList = repository.GetAll();
             }
             payModeBindingSource.DataSource = payModeList;
-
         }
     }
 }
